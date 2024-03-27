@@ -8,7 +8,7 @@ of personal information if anyone decided to use our service
 
 <H3> Collecting information </H3>
 
-"India-s-Food-Recipe-APP" do not collect any personaised data from users
+"India-s-Food-Recipe-APP" Our app utilizes Google AdMob for in-app advertising. AdMob may collect certain information to provide personalized ads, but we, as the app developers, does not collect any personal data.
 
 <H3> Contact us / Customer support </H3>
 E-mail : 02xdeveloper@gmail.com
